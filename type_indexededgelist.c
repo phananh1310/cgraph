@@ -1,7 +1,7 @@
 #include "cgraph_error.h"
 #include "cgraph_interface.h"
 #include "cgraph_ivec.h"
-
+njnjnjnjnj
 /**
  * \ingroup interface
  * \function igraph_vcount
